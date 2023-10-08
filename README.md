@@ -1,2 +1,2 @@
 # IntelligentGames
-Intelligent games in C.
+Intelligent games in C/C++.
