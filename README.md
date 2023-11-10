@@ -26,6 +26,7 @@ R2, U2, F2 represent a 180° turn of the right, up, and front faces of the cube 
 This project uses only:
 1. Arrays
 2. Queues (implented as arrays)
+3. Graphs
 
 No inbuilt libraries have been used, all code is written from scratch. 
 
