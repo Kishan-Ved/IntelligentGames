@@ -30,12 +30,13 @@ This project uses only:
 2. Queues (implented as arrays)
 3. Graphs
 
-# Up it up
-Refer: https://www.youtube.com/watch?v=N_GbBjvU068
-The classic puzzle always starts at the same position. For our question, the cubes may start in any configuration on the board given as input (choose a reasonable input format). Your program should print a shortest sequence of moves that will solve it (The final configuration is same as in the classic game in the demo), or print that no solution exists if it is unsolvable.
-
-No inbuilt libraries have been used, all code is written from scratch. 
-
 ## Algorithm Used:
 
 BFS - Breadth First Search is used to find the shortest path to the solve the cube.
+
+# Up it up
+Refer: https://www.youtube.com/watch?v=N_GbBjvU068
+
+The classic puzzle always starts at the same position. For our question, the cubes may start in any configuration on the board given as input (choose a reasonable input format). Your program should print a shortest sequence of moves that will solve it (The final configuration is same as in the classic game in the demo), or print that no solution exists if it is unsolvable.
+
+No inbuilt libraries have been used, all code is written from scratch. 
