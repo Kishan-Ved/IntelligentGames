@@ -1,5 +1,5 @@
 # IntelligentGames
-Intelligent games in C/C++, along with a cubesolver.
+Intelligent games in C/C++, along with a cubesolver. All the code has been written in C/C++ from scratch, without using any libraries.
 
 Rules for the Game of Sim and Connect4 are available on wikipedia. I've included the working of the cubesolver here, the other games have sufficient instructions at the start to make them understandable. I've also included a description of up-it-up game by CCL, IITGN.
 
