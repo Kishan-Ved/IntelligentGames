@@ -3,6 +3,8 @@ Intelligent games in C/C++, along with a cubesolver. All the code has been writt
 
 Rules for the Game of Sim and Connect4 are available on wikipedia. I've included the working of the cubesolver here, the other games have sufficient instructions at the start to make them understandable. I've also included a description of up-it-up game by CCL, IITGN.
 
+No inbuilt libraries have been used, all code is written from scratch. 
+
 # CubeSolver
 ## Solves any 2X2X2 Rubik's cube 
 This repository contains code to solve any 2X2X2 Rubik's cube. 
@@ -34,9 +36,22 @@ This project uses only:
 
 BFS - Breadth First Search is used to find the shortest path to the solve the cube.
 
-# Up it up
+# Games:
+
+## Up it up
 Refer: https://www.youtube.com/watch?v=N_GbBjvU068
 
 The classic puzzle always starts at the same position. For our question, the cubes may start in any configuration on the board given as input (choose a reasonable input format). Your program should print a shortest sequence of moves that will solve it (The final configuration is same as in the classic game in the demo), or print that no solution exists if it is unsolvable.
 
-No inbuilt libraries have been used, all code is written from scratch. 
+
+## Game of Sim
+
+Rules: [Wikipedia](https://en.wikipedia.org/wiki/Sim_(game))
+
+## Connect 4
+
+Rules: [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four)
+
+## Sudoku solver
+
+Rules: [Wikipedia](https://en.wikipedia.org/wiki/Sudoku)
